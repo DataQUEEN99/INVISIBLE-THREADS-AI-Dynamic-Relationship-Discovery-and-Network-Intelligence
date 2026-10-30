@@ -1,0 +1,2 @@
+# INVISIBLE-THREADS-AI-Dynamic-Relationship-Discovery-and-Network-Intelligence
+INVISIBLE THREADS AI discovers hidden relationships between variables and identifies how they change across different conditions. It combines correlation analysis, network visualization, and missing-data analysis to uncover meaningful patterns. The project generates interactive insights, analytical graphs, and downloadable reports using Python.
